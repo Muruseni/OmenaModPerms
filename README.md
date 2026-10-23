@@ -6,7 +6,7 @@ This file contains the Minecraft accounts approved to use OmenaMod.
 
 | IGN | UUID |
 |---|---|
-| Muruseni_ | 6d58658b-d138-45b1-afb5-6bad8e0899e1 | 
+| Muruseni_ | d58658b-d138-45b1-afb5-6bad8e0899e1 | 
 | skelehunter | de2f354f-cb29-4e6c-9e80-36ea2d55c60d | 
 
 
